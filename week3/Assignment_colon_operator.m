@@ -1,0 +1,7 @@
+%{ 
+    @uthor:Bipin Poudel
+%}
+
+
+odds = 1:2:100
+evens = 100:-2:2
